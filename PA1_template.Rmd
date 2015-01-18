@@ -87,7 +87,7 @@ The 835 interval is **8.35 AM **
 print(sum(is.na(data$steps)))
 ```
 
-### Fill the missing data with **average** number of that interval
+### I decide to fill the missing data with average number of that interval.
 ```{r, echo=TRUE}
 ## start by copy data to another dataset
 filledData <- data
