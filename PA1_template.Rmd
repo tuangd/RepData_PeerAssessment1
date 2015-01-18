@@ -136,11 +136,11 @@ print(mean(sumStepByDate2$steps))
 print(median(sumStepByDate2$steps))
 ```
 
-**A. From the data that shown above we can see that the mean and median is different from each other, the results from imputing data are higher and mean and median has the same exact number**
+**A. From the data that shown above we can see that the mean and median is different from each other, the results from imputing data are higher and mean and median has the same exact number.**
 
 ###Q. What is the impact of imputing missing data on the estimates of the total daily number of steps?
 
-**A. Mean and Median of the imputing data is the same exact number**
+**A. Mean and Median of the imputing data is the same exact number.**
 
 
 
